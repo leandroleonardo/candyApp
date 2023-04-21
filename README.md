@@ -15,7 +15,7 @@ ERP / MVC Model
 ### Download do projeto
 <hr>
 
-Clone o repositório e realiza o descompactamento. 
+Clone o repositório e realize o descompactamento. 
 
 ```
 https://github.com/leandroleonardo/candyApp
